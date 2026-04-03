@@ -108,19 +108,19 @@
 ## 🚀 Projects
 
 ### 🏫 Hoosier Hub - Student Community Platform
-Built a full-stack platform using **Next.js, Spring Boot, and SQL** for **50,000+ IU students**. Designed documented REST APIs, built an indexed data model for concurrent use, Dockerized services, and enabled **Azure CI/CD with GitHub Actions** for reliable zero-downtime deployments.  [oai_citation:1‡GitHub] (https://github.com/sahithireddys/Hoosier-Hub-Student-Community-Platform-Server)
+Built a full-stack platform using **Next.js, Spring Boot, and SQL** for **50,000+ IU students**. Designed documented REST APIs, built an indexed data model for concurrent use, Dockerized services, and enabled **Azure CI/CD with GitHub Actions** for reliable zero-downtime deployments.(https://github.com/sahithireddys/Hoosier-Hub-Student-Community-Platform-Server)
 
 ### 📂 Distributed Log Processing System
-Built a serverless Azure log processing pipeline handling **10GB+ semi-structured logs/day** using **Azure Blob Storage, Azure Functions, and SQL**. Implemented chunk-based parsing and optimized indexed retrieval with time and severity filters. [oai_citation:1‡GitHub] (https://github.com/sahithireddys/Distributed-Log-Processing-System)
+Built a serverless Azure log processing pipeline handling **10GB+ semi-structured logs/day** using **Azure Blob Storage, Azure Functions, and SQL**. Implemented chunk-based parsing and optimized indexed retrieval with time and severity filters. (https://github.com/sahithireddys/Distributed-Log-Processing-System)
 
 ### 🎯 ApplyPilot
-Built **ApplyPilot**, a modern full-stack productivity web application focused on streamlining workflows through a clean, responsive, and scalable interface. Developed it using **Next.js, React, TypeScript, Tailwind CSS, and Framer Motion**, with support for authentication, modular architecture, and future extensibility for analytics, API integrations, and AI-powered enhancements.  [oai_citation:1‡GitHub](https://github.com/sahithireddys/applypilot)
+Built **ApplyPilot**, a modern full-stack productivity web application focused on streamlining workflows through a clean, responsive, and scalable interface. Developed it using **Next.js, React, TypeScript, Tailwind CSS, and Framer Motion**, with support for authentication, modular architecture, and future extensibility for analytics, API integrations, and AI-powered enhancements.(https://github.com/sahithireddys/applypilot)
 
 ### 🌐 Personal Portfolio Website
-Built and deployed my personal developer portfolio to showcase my **experience, projects, technical skills, and resume** in a clean and interactive format. Created it as a modern front-end web project and published it through my portfolio site and corresponding GitHub repository.  [oai_citation:2‡GitHub] (https://github.com/sahithireddys/sahithireddys.github.io)
+Built and deployed my personal developer portfolio to showcase my **experience, projects, technical skills, and resume** in a clean and interactive format. Created it as a modern front-end web project and published it through my portfolio site and corresponding GitHub repository.(https://github.com/sahithireddys/sahithireddys.github.io)
 
 ### 🛡️ Phishing URL Detection Pipeline
-Built a machine learning pipeline for **phishing URL detection** using a notebook-driven workflow and dataset-backed experimentation. Published the project as a dedicated GitHub repository with code and data for phishing URL analysis and classification.  [oai_citation:3‡GitHub](https://github.com/sahithireddys/Phishing-URL-Detection-Pipeline)
+Built a machine learning pipeline for **phishing URL detection** using a notebook-driven workflow and dataset-backed experimentation. Published the project as a dedicated GitHub repository with code and data for phishing URL analysis and classification. (https://github.com/sahithireddys/Phishing-URL-Detection-Pipeline)
 
 
 ---
