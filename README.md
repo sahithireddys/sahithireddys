@@ -117,10 +117,10 @@ Built a serverless Azure log processing pipeline handling **10GB+ semi-structure
 Built **ApplyPilot**, a modern full-stack productivity web application focused on streamlining workflows through a clean, responsive, and scalable interface. Developed it using **Next.js, React, TypeScript, Tailwind CSS, and Framer Motion**, with support for authentication, modular architecture, and future extensibility for analytics, API integrations, and AI-powered enhancements.(https://github.com/sahithireddys/applypilot)
 
 ### 🌐 Personal Portfolio Website
-Built and deployed my personal developer portfolio to showcase my **experience, projects, technical skills, and resume** in a clean and interactive format. Created it as a modern front-end web project and published it through my portfolio site and corresponding GitHub repository.(https://github.com/sahithireddys/sahithireddys.github.io)
+Built and deployed a responsive personal portfolio website using **React, Vite, and Tailwind CSS**, with modular component architecture, smooth single-page navigation, and **GitHub Pages deployment via GitHub Actions**. Designed reusable sections for experience, projects, publications, certifications, and contact workflows, while optimizing layout consistency across desktop and mobile views. (https://github.com/sahithireddys/sahithireddys.github.io)
 
 ### 🛡️ Phishing URL Detection Pipeline
-Built a machine learning pipeline for **phishing URL detection** using a notebook-driven workflow and dataset-backed experimentation. Published the project as a dedicated GitHub repository with code and data for phishing URL analysis and classification. (https://github.com/sahithireddys/Phishing-URL-Detection-Pipeline)
+Built a machine learning pipeline for phishing URL detection using **Python**, **Jupyter Notebook**, and a labeled phishing dataset, with the workflow organized around exploratory analysis, preprocessing, feature-driven modeling, and evaluation. Implemented a notebook-based classification pipeline over a CSV-backed dataset to analyze malicious versus legitimate URL patterns, structure the end-to-end training workflow, and support reproducible experimentation for phishing detection tasks.(https://github.com/sahithireddys/Phishing-URL-Detection-Pipeline)
 
 
 ---
