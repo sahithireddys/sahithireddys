@@ -17,10 +17,15 @@ I'm a Software Engineer with a Master's in Computer Science from Indiana Univers
 ### Tech Stack
 
 **Languages:** Java, Python, C/C++, SQL, JavaScript, TypeScript, HTML, CSS
+
 **Frameworks & Libraries:** Spring Boot, FastAPI, Node.js, Express.js, React, Next.js, Angular
+
 **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD
+
 **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB, Oracle
+
 **AI/LLM:** LangChain, RAG Pipelines, OpenAI API, Prompt Engineering, ChatGPT, Claude
+
 **Concepts:** Distributed Systems, Microservices, Event-Driven Architecture, REST APIs, System Design, Linux/Unix, TDD, Agile, Scrum
 
 ---
