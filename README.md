@@ -3,7 +3,7 @@ Software Engineer who builds backend systems, distributed architectures, and clo
 
 [Portfolio](https://sahithireddys.github.io) · [LinkedIn](https://www.linkedin.com/in/sahithireddys/) · [Email](mailto:ssenagapally@gmail.com)
 
-### Currently open to full-time Software Engineering opportunities — open to relocation.
+Currently open to full-time Software Engineering opportunities — open to relocation.
 
 ---
 
