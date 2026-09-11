@@ -1,9 +1,9 @@
 ## Hi, I'm Sahithi 👋
 Software Engineer who builds backend systems, distributed architectures, and cloud-native applications that hold up under real production load. I've cut duplicate-processing conflicts by 99%, fraud-detection alert latency by 75%, and pipeline turnaround time by 87% across university, fintech, and enterprise platforms — work spanning REST APIs, event-driven systems with Kafka, and serverless AWS infrastructure. MS Computer Science, Indiana University Bloomington, May 2026.
 
-[Portfolio](https://sahithireddys.github.io) · [LinkedIn](https://www.linkedin.com/in/sahithireddys/) · [Email](mailto:ssenagapally@gmail.com)
-
 Currently open to full-time Software Engineering opportunities — open to relocation.
+
+[Portfolio](https://sahithireddys.github.io) · [LinkedIn](https://www.linkedin.com/in/sahithireddys/) · [Email](mailto:ssenagapally@gmail.com)
 
 ---
 
@@ -42,7 +42,7 @@ PyTorch, TensorFlow, NumPy, OpenCV, LangChain, OpenAI API, RAG
 
 ---
 
-### Experience
+### Professional Experience
 
 **Software Engineer** · Indiana University Bloomington, Bloomington, IN · Oct 2024 to May 2026
 
