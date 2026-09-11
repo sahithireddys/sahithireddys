@@ -1,6 +1,6 @@
 ## Hi, I'm Sahithi 👋
 
-Software Engineer at Indiana University Bloomington, working on backend systems for platforms serving 10,000+ students and staff. MS Computer Science from Indiana University Bloomington, graduating May 2026. I build REST APIs, distributed and event-driven systems, and cloud-native backends — most of my work lives at the intersection of performance tuning, data consistency, and scaling services under real production load.
+Software Engineer specializing in backend systems, distributed architecture, and cloud-native applications. Track record of cutting latency, conflicts, and processing time by 25–99% across university, fintech, and enterprise platforms, using REST APIs, Kafka-based event-driven systems, and serverless AWS infrastructure. MS Computer Science, Indiana University Bloomington, May 2026.
 
 [Portfolio](https://sahithireddys.github.io) · [LinkedIn](https://www.linkedin.com/in/sahithireddys/) · [Email](mailto:ssenagapally@gmail.com)
 
@@ -43,7 +43,7 @@ PyTorch, TensorFlow, NumPy, OpenCV, LangChain, OpenAI API, RAG
 
 ### Experience
 
-**Software Engineer** · Indiana University Bloomington, Bloomington, IN · Oct 2024 to present
+**Software Engineer** · Indiana University Bloomington, Bloomington, IN · Oct 2024 to May 2026
 
 Redesigned enrollment processing for a course-management platform used by 10,000+ students and staff. Concurrent requests were creating duplicate seats and inconsistent capacity counts, so I added transactional MySQL capacity checks and concurrency controls that cut duplicate enrollment conflicts by about 99%. Also built and optimized 8+ Node.js REST APIs for course and user management, adding role-based authorization and cutting response time on high-traffic endpoints by 25% through SQL tuning, indexing, and server-side pagination.
 
