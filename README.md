@@ -5,7 +5,6 @@ Currently open to full-time Software Engineering opportunities — open to reloc
 
 [Portfolio](https://sahithireddys.github.io) · [LinkedIn](https://www.linkedin.com/in/sahithireddys/) · [Email](mailto:ssenagapally@gmail.com)
 
----
 
 ### What I'm working on
 
@@ -76,4 +75,3 @@ Data Structures, Operating Systems, Database Management Systems, Artificial Inte
 
 Always up for a conversation about distributed systems, performance tuning, or the gap between an AI demo and something that survives production. Reach out anytime.
 
----
