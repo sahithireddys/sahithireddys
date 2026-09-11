@@ -1,88 +1,55 @@
-<h1 align="center">Hi, I'm Sahithi Reddy Senagapally 👋</h1>
+<div align="center">
 
-<p align="center">
-  Software Engineer &nbsp;|&nbsp; MS Computer Science @ Indiana University Bloomington &nbsp;|&nbsp; Backend & Cloud-Native Systems
-</p>
+# Sahithi Reddy Senagapally
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sahithireddys/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ssenagapally@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://sahithireddys.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</p>
+*Software Engineer · MS Computer Science @ Indiana University Bloomington*
+
+</div>
 
 ---
 
-### About Me
+**Contact & Links:**
+- Email: ssenagapally@gmail.com
+- GitHub: github.com/sahithireddys
+- LinkedIn: linkedin.com/in/sahithireddys/
+- Portfolio: sahithireddys.github.io
 
-I build scalable backend systems, microservices, REST APIs, and cloud-native applications. Currently pursuing my Master's in Computer Science at Indiana University Bloomington (Aug 2024 – May 2026), with a background in Computer Science engineering (B.Tech, 2019–2023).
+**Current Role:**
+Software Engineer at Indiana University Bloomington (Oct 2024 – present), concurrently pursuing a Master's in Computer Science (GPA 3.8/4.0, Aug 2024 – May 2026). Previously a Software Development Engineer at Tata Consultancy Services, a Software Development Intern at Isomerous, and a Software Engineer at ADP.
 
-I care about systems that hold up under real load — clean APIs, sensible data models, and infrastructure that doesn't page anyone at 3am.
+**Core Expertise:**
+Backend systems, microservices, distributed and event-driven architectures, RESTful APIs, and cloud-native applications — with a growing focus on AI-powered tooling (RAG, LangChain, LLM-driven automation).
 
-### Highlights
+**Technical Stack:**
+Languages: Java, Python, JavaScript, TypeScript, SQL, C, C++, C#, Bash, HTML, CSS
+Frameworks/Libraries: Spring Boot, Node.js, React, Angular, Next.js, Apache Kafka, FastAPI
+Architecture: RESTful APIs, Microservices, Distributed Systems, Event-Driven Architecture, System Design
+Databases: PostgreSQL, MySQL, Oracle Database, SQL Server, MongoDB, DynamoDB, Redis
+Cloud/DevOps: AWS (Lambda, API Gateway, S3, IAM, EC2), Azure, GCP, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD
+AI/ML: PyTorch, TensorFlow, NumPy, OpenCV, LangChain, OpenAI API, RAG
 
-- Built REST APIs supporting 10,000+ student and staff workflows
-- Cut API response times by 25% through query and index optimization
-- Deployed serverless AWS infrastructure with 99.9% uptime
-- Reduced fraud-detection pipeline latency by 30% via database tuning
-- Mentored 100+ students in C and UNIX systems programming
+**Key Accomplishments:**
+- Cut duplicate enrollment conflicts by ~99% redesigning concurrency-safe enrollment processing for a course-management platform serving 10,000+ users (IU Bloomington)
+- Reduced high-traffic API response times by 25% through SQL query tuning, index optimization, and server-side pagination (IU Bloomington)
+- Reduced product-inspection processing turnaround by 87%, replacing a manual workflow with a serverless AWS ingestion pipeline scaled to 20,000+ submissions/day (Isomerous)
+- Improved fraud-detection true positives by 83% across 1M+ financial transactions daily with a configurable Java/Spring Boot rule engine (Tata Consultancy Services)
+- Reduced real-time fraud-alert latency by 75% (12 min → 3 min) across 4 banking clients, contributing to onboarding 2 additional clients (Tata Consultancy Services)
+- Reduced Report Builder load time by 77% (8.4s → 1.9s) for 1,000+ users by consolidating API requests and optimizing React rendering (ADP)
 
-### Tech Stack
+**Notable Projects:**
+- [**Hoosier Hub**](https://github.com/sahithireddys/Hoosier-Hub-Student-Community-Platform) — full-stack student community platform for Indiana University, Spring Boot + MongoDB, built for 50,000+ IU students
+- **Distributed Payment Processing & Ledger Platform** — Java/Spring Boot payment platform processing 2,500+ transactions/min in load tests with p95 latency under 250ms, using Kafka, PostgreSQL, and Redis
+- **Fault-Tolerant Distributed Task Scheduler** — coordinates 20 concurrent gRPC workers and 10K+ queued jobs, automatically reassigning failed tasks within 6 seconds via leases, heartbeats, and retry-based recovery
+- **AI-Powered Incident Triage & Root-Cause Analysis Platform** — FastAPI + LangChain + RAG + pgvector system retrieving historical incidents/runbooks, achieving 88% Recall@5
+- [**Computer-Use Automation System**](https://github.com/sahithireddys/computer-use-automation-system) — AI agent that learns browser workflows once via LLM-driven discovery, then replays them deterministically without an LLM
+- [**Phishing URL Detection Pipeline**](https://github.com/sahithireddys/Phishing-URL-Detection-Pipeline) — ML pipeline classifying phishing vs. legitimate URLs from 50+ engineered features, benchmarking 8 classifiers
+- [**Relevant Priors API**](https://github.com/sahithireddys/relevant-priors-api) — FastAPI prediction service for the relevant-priors-v1 ML challenge, deployable to Render/Railway/Fly.io
+- [**Trello API CLI**](https://github.com/sahithireddys/trello-api-cli) — Python CLI for creating Trello cards via the REST API, resolving boards/lists/labels by name
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-CC785C?style=flat&logo=anthropic&logoColor=white"/>
-</p>
+---
 
-### Featured Projects
+<div align="center">
 
-| Project | Description |
-|---|---|
-| [**Hoosier Hub**](https://github.com/sahithireddys/Hoosier-Hub-Student-Community-Platform) | Full-stack student community platform for Indiana University — Spring Boot backend, MongoDB, built for 50,000+ IU students |
-| [**Phishing URL Detection Pipeline**](https://github.com/sahithireddys/Phishing-URL-Detection-Pipeline) | ML pipeline classifying phishing vs. legitimate URLs from 50+ engineered features, benchmarking 8 classifiers |
-| [**Computer-Use Automation System**](https://github.com/sahithireddys/computer-use-automation-system) | AI agent that learns browser workflows once via LLM-driven discovery, then replays them deterministically without an LLM |
-| [**Trello API CLI**](https://github.com/sahithireddys/trello-api-cli) | Python CLI for creating Trello cards via the REST API, resolving boards/lists/labels by name |
-| [**Relevant Priors API**](https://github.com/sahithireddys/relevant-priors-api) | FastAPI prediction service for the relevant-priors-v1 ML challenge, deployable to Render/Railway/Fly.io |
-| **Distributed Log Processing System** | Azure serverless pipeline processing 10GB+ of logs daily |
-| **ApplyPilot** | Productivity web app for managing job applications, built with Next.js and Tailwind CSS |
+📫 ssenagapally@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sahithireddys/) &nbsp;·&nbsp; 🌐 [Portfolio](https://sahithireddys.github.io)
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahithireddys&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahithireddys&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahithireddys&hide_border=true"/>
-</p>
-
-### Let's Connect
-
-📫 **ssenagapally@gmail.com** &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sahithireddys/) &nbsp;·&nbsp; 🌐 [Portfolio](https://sahithireddys.github.io)
+</div>
