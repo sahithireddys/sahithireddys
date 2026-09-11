@@ -22,29 +22,29 @@ Currently open to full-time Software Engineering opportunities — open to reloc
 
 ### Tech I use
 
-**Languages**
+**Languages:**
 Java, Python, JavaScript, TypeScript, SQL, C, C++, C#, Bash
 
-**Backend & Architecture**
+**Backend & Architecture:**
 Spring Boot, Node.js, FastAPI, Apache Kafka, RESTful APIs, Microservices, Event-Driven Architecture, Distributed Systems, System Design
 
-**Frontend**
+**Frontend:**
 React, Next.js, Angular
 
-**Databases**
+**Databases:**
 PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, DynamoDB, Redis
 
-**Cloud & Infrastructure**
+**Cloud & Infrastructure:**
 AWS (Lambda, API Gateway, S3, IAM, EC2), Azure, GCP, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD
 
-**AI/ML**
+**AI/ML:**
 PyTorch, TensorFlow, NumPy, OpenCV, LangChain, OpenAI API, RAG
 
 ---
 
 ### Experience
 
-**Software Engineer** · Indiana University Bloomington, Bloomington, IN · Oct 2024 to present
+**Software Engineer** · Indiana University Bloomington, Bloomington, IN · Oct 2024 to May 2026
 
 Redesigned enrollment processing for a course-management platform used by 10,000+ students and staff. Concurrent requests were creating duplicate seats and inconsistent capacity counts, so I added transactional MySQL capacity checks and concurrency controls that cut duplicate enrollment conflicts by about 99%. Also built and optimized 8+ Node.js REST APIs for course and user management, adding role-based authorization and cutting response time on high-traffic endpoints by 25% through SQL tuning, indexing, and server-side pagination.
 
