@@ -1,92 +1,78 @@
+## Hi, I'm Sahithi 👋
 
-# Hi 👋, I'm Sahithi Reddy Senagapally
-### Software Engineer | MS in Computer Science @ Indiana University Bloomington
+Software Engineer at Indiana University Bloomington, working on backend systems for platforms serving 10,000+ students and staff. MS Computer Science from Indiana University Bloomington, graduating May 2026. I build REST APIs, distributed and event-driven systems, and cloud-native backends — most of my work lives at the intersection of performance tuning, data consistency, and scaling services under real production load.
 
-Email: ssenagapally@gmail.com · GitHub: github.com/sahithireddys · LinkedIn: linkedin.com/in/sahithireddys · Portfolio: sahithireddys.github.io
-
-*Currently open to full-time Software Engineering opportunities — open to relocation.*
+[Portfolio](https://sahithireddys.github.io) · [LinkedIn](https://www.linkedin.com/in/sahithireddys/) · [Email](mailto:ssenagapally@gmail.com)
 
 ---
 
-### About Me
+### What I'm working on
 
-I'm a Software Engineer with a Master's in Computer Science from Indiana University Bloomington. I build scalable backend systems, microservices, REST APIs, and cloud-native applications, with experience spanning Java, Python, Spring Boot, React, AWS, Azure, and distributed systems — and a focus on performance, reliability, and system design.
-
----
-
-### Tech Stack
-
-**Languages:** Java, Python, C/C++, SQL, JavaScript, TypeScript, HTML, CSS
-
-**Frameworks & Libraries:** Spring Boot, FastAPI, Node.js, Express.js, React, Next.js, Angular
-
-**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD
-
-**Databases:** PostgreSQL, MySQL, SQL Server, MongoDB, Oracle
-
-**AI/LLM:** LangChain, RAG Pipelines, OpenAI API, Prompt Engineering, ChatGPT, Claude
-
-**Concepts:** Distributed Systems, Microservices, Event-Driven Architecture, REST APIs, System Design, Linux/Unix, TDD, Agile, Scrum
+- **[Hoosier Hub](https://github.com/sahithireddys/Hoosier-Hub-Student-Community-Platform)** · Full-stack student community platform for Indiana University, built for 50,000+ IU students. Spring Boot backend, MongoDB, documented REST APIs, Dockerized services.
+- **[Computer-Use Automation System](https://github.com/sahithireddys/computer-use-automation-system)** · An LLM-driven agent that learns a browser workflow once through discovery, then replays it deterministically without an LLM in the loop — built for API-less legacy systems like banking portals.
+- **[Phishing URL Detection Pipeline](https://github.com/sahithireddys/Phishing-URL-Detection-Pipeline)** · Classifies phishing vs. legitimate URLs from 50+ engineered lexical, domain, and SSL/WHOIS features, benchmarking 8 classifiers with GridSearchCV.
+- **[Relevant Priors API](https://github.com/sahithireddys/relevant-priors-api)** · FastAPI prediction service for the relevant-priors-v1 ML challenge, with health checks, contract tests, and deploy configs for Render, Railway, and Fly.io.
+- **[Trello API CLI](https://github.com/sahithireddys/trello-api-cli)** · Python CLI for creating Trello cards via the REST API, resolving boards, lists, and labels by name.
+- **Distributed Payment Processing & Ledger Platform** · Java/Spring Boot payment platform processing 2,500+ transactions/min in load tests, using Kafka, PostgreSQL, and Redis, with p95 submission latency under 250ms.
+- **Fault-Tolerant Distributed Task Scheduler** · Coordinates 20 concurrent gRPC workers and 10K+ queued jobs, reassigning failed tasks within 6 seconds via leases, heartbeats, and retry-based recovery.
+- **AI-Powered Incident Triage & Root-Cause Analysis Platform** · FastAPI, LangChain, and pgvector over application logs and historical runbooks, retrieving evidence-backed root causes at 88% Recall@5.
 
 ---
 
-### Impact Highlights
+### Tech I use
 
-- Built REST API components supporting 10k+ student and staff workflows across university systems
-- Implemented 8+ backend endpoints and reduced response time by 25% through SQL optimization
-- Improved production reliability and reduced repeat incidents by 15%
-- Helped maintain 99.9% service availability for campus applications
-- Deployed a serverless AWS ingestion backend with 99.9% uptime, replacing manual ETL
-- Reduced ingestion latency by 40% using AWS Lambda and DynamoDB
-- Improved analytics data availability by 45% through event-driven API design
-- Increased production uptime by 35% for high-volume fraud detection workflows at TCS
-- Reduced fraud-detection pipeline latency by 30% through SQL tuning and indexing
-- Cut manual workload by 25% and reduced MTTR by 40% with RBAC automation and ELK logging
-- Improved chatbot routing efficiency by 45% with Python NLP workflows
-- Reduced manual query handling by 50% with stateful multi-turn chatbot logic
-- Reduced perceived frontend API latency by 40% and lowered server load by 30%
+**Languages**
+Java, Python, JavaScript, TypeScript, SQL, C, C++, C#, Bash
 
----
+**Backend & Architecture**
+Spring Boot, Node.js, FastAPI, Apache Kafka, RESTful APIs, Microservices, Event-Driven Architecture, Distributed Systems, System Design
 
-### Projects
+**Frontend**
+React, Next.js, Angular
 
-**[Hoosier Hub – Student Community Platform](https://github.com/sahithireddys/Hoosier-Hub-Student-Community-Platform-Server)** — Full-stack platform for 50,000+ IU students using Next.js, Spring Boot, and SQL. Documented REST APIs, an indexed data model for concurrent use, Dockerized services, and Azure CI/CD via GitHub Actions for zero-downtime deployments.
+**Databases**
+PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, DynamoDB, Redis
 
-**[Distributed Log Processing System](https://github.com/sahithireddys/Distributed-Log-Processing-System)** — Serverless Azure pipeline handling 10GB+ semi-structured logs/day, with chunk-based parsing and optimized indexed retrieval by time and severity.
+**Cloud & Infrastructure**
+AWS (Lambda, API Gateway, S3, IAM, EC2), Azure, GCP, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD
 
-**[ApplyPilot](https://github.com/sahithireddys/applypilot)** — Full-stack productivity web app built with Next.js, React, TypeScript, Tailwind CSS, and Framer Motion, with authentication and a modular architecture designed for future analytics and AI integrations.
-
-**[Personal Portfolio Website](https://github.com/sahithireddys/sahithireddys.github.io)** — Responsive portfolio built with React, Vite, and Tailwind CSS, deployed via GitHub Pages with GitHub Actions, covering experience, projects, publications, and certifications.
-
-**[Phishing URL Detection Pipeline](https://github.com/sahithireddys/Phishing-URL-Detection-Pipeline)** — ML pipeline for phishing URL detection in Python/Jupyter, covering exploratory analysis, preprocessing, feature-driven modeling, and evaluation over a labeled dataset.
+**AI/ML**
+PyTorch, TensorFlow, NumPy, OpenCV, LangChain, OpenAI API, RAG
 
 ---
 
-### Experience Snapshot
+### Experience
 
-**Indiana University Bloomington**
-Developed backend API components for university platforms, optimized SQL queries and cross-system performance, supported production releases, and mentored 100+ students in C and UNIX as an Associate Instructor.
+**Software Engineer** · Indiana University Bloomington, Bloomington, IN · Oct 2024 to present
 
-**Isomerous, LLC**
-Built a serverless AWS ingestion backend for analytics workflows, developed Lambda-based processing and event-driven APIs, and improved ingestion reliability, latency, and data availability.
+Redesigned enrollment processing for a course-management platform used by 10,000+ students and staff. Concurrent requests were creating duplicate seats and inconsistent capacity counts, so I added transactional MySQL capacity checks and concurrency controls that cut duplicate enrollment conflicts by about 99%. Also built and optimized 8+ Node.js REST APIs for course and user management, adding role-based authorization and cutting response time on high-traffic endpoints by 25% through SQL tuning, indexing, and server-side pagination.
 
-**Tata Consultancy Services**
-Owned Java REST microservices for an enterprise AML platform, tuned SQL-heavy services for high-volume fraud detection, and automated RBAC, alert routing, and centralized logging.
+**Software Developer Intern** · Isomerous, Ashburn, VA · Jun 2025 to Aug 2025
 
-**CoreTek Labs**
-Built and deployed an Amazon Lex chatbot with AWS Lambda, implementing NLP-based intent routing and multi-turn session logic.
+Replaced a manual product-inspection workflow with a serverless AWS backend on API Gateway, Python Lambda, DynamoDB, S3, and IAM, cutting processing turnaround time by 87%. Built Lambda workflows for payload validation, metadata transformation, and image processing with coordinated S3/DynamoDB persistence, scaling the ingestion pipeline to 20,000+ submissions a day.
 
-**ADP**
-Optimized React data fetching with caching and pagination, reducing redundant API calls and improving frontend responsiveness.
+**Software Development Engineer** · Tata Consultancy Services, Bangalore, India · May 2023 to Jul 2024
+
+Built Java/Spring Boot rule-engine services for AML transaction monitoring across 1M+ financial transactions a day, improving fraud-detection true positives by 83% through configurable risk-pattern evaluation. Real-time alert latency was a hard requirement for four banking clients, so I optimized Oracle SQL, added indexes, and fixed multithreading bottlenecks, bringing alert latency from 12 minutes down to 3 — the improvement helped bring on two additional clients. Also built a Kafka-based event-driven monitoring service that replaced end-of-day batch processing with real-time, horizontally scalable streaming, and automated regulatory watchlist ingestion and reconciliation, improving daily processing throughput by 40%.
+
+**Software Engineer** · ADP, Hyderabad, India · Jul 2022 to Nov 2022
+
+Built backend reporting APIs aggregating employee data across internal services, with server-side search, sorting, pagination, and transformations to keep payloads small. Report Builder was loading in 8.4 seconds for 1,000+ users; by consolidating redundant API requests, parallelizing downstream calls, and optimizing React rendering, I brought that down to 1.9 seconds — a 77% improvement.
 
 ---
 
 ### Education
 
-**Indiana University Bloomington** — Master of Science in Computer Science, Aug 2024 – May 2026
+**Indiana University Bloomington** · MS Computer Science · Aug 2024 to May 2026 · GPA 3.8/4.0
 
-**Gokaraju Rangaraju Institute of Engineering and Technology** — Bachelor of Technology in Computer Science, Aug 2019 – May 2023
+Applied Algorithms, Computer Networks, Software Engineering, Cloud Computing
+
+**Gokaraju Rangaraju Institute of Engineering and Technology** · BTech Computer Science and Engineering · Aug 2019 to May 2023 · GPA 3.7/4.0
+
+Data Structures, Operating Systems, Database Management Systems, Artificial Intelligence, Machine Learning
 
 ---
 
-I think the best pull requests are the ones that delete more code than they add — always chasing that feeling of a system finally clicking into place.
+Always happy to talk about backend systems, distributed architecture, or where AI tooling actually earns its place in production. Feel free to reach out.
+
+---
