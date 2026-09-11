@@ -20,22 +20,22 @@ Software Engineer specializing in backend systems, distributed architecture, and
 
 ### Tech I use
 
-**Languages**
+**Languages:**
 Java, Python, JavaScript, TypeScript, SQL, C, C++, C#, Bash
 
-**Backend & Architecture**
+**Backend & Architecture:**
 Spring Boot, Node.js, FastAPI, Apache Kafka, RESTful APIs, Microservices, Event-Driven Architecture, Distributed Systems, System Design
 
-**Frontend**
+**Frontend:**
 React, Next.js, Angular
 
-**Databases**
+**Databases:**
 PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, DynamoDB, Redis
 
-**Cloud & Infrastructure**
+**Cloud & Infrastructure:**
 AWS (Lambda, API Gateway, S3, IAM, EC2), Azure, GCP, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD
 
-**AI/ML**
+**AI/ML:**
 PyTorch, TensorFlow, NumPy, OpenCV, LangChain, OpenAI API, RAG
 
 ---
